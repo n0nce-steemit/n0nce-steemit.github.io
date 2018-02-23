@@ -21,7 +21,7 @@ sudo bash pia-nm.sh
 
 ## Use the GUI
 
-* Configure `Software Updater`.
+* Configure and install all updates within `Software Updater`.
 * Use the `Welcome Screen` to:
   * Install `Media Codecs`.
   * Install `Device Drivers`.
