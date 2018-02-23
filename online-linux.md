@@ -1,6 +1,6 @@
 # Install an Online Linux Computer
 
-This is a continuation for the steps to install an [offline laptop](/linux), so some steps may be repeated.
+This is a continuation for the steps to install an [offline laptop](/cold-linux), so some steps may be repeated.
 
 ## Update the Machine and Install Some Useful Software
 
