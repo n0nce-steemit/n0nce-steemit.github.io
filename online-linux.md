@@ -26,11 +26,11 @@ sudo bash pia-nm.sh
   * Install `Media Codecs`.
   * Install `Device Drivers`.
 * `Application Manager` to install: `Chromium`, `Sublime`.
-* Configure `Terminator`: Preferences -> Profiles -> Copy on selection
+* Configure `Terminator`: Preferences -> Profiles -> Copy on selection.
 
 ## Install Tor
 
-Visit https://www.torproject.org/download/download-easy.html.en, then:
+Visit [https://www.torproject.org](https://www.torproject.org) then:
 
 ```
 gpg --with-fingerprint tor*.asc
@@ -60,7 +60,7 @@ Setup three different browsers shortcuts:
 
 Configure Chrome: Settings -> Manage passwords -> Off
 
-## Install Docker
+## Install Docker and Docker Compose
 
 ```
 curl -fsSL get.docker.com -o get-docker.sh
