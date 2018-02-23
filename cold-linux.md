@@ -65,7 +65,7 @@ apt-get update && apt-get upgrade -y
 apt-get install -y tree wipe scrub bleachbit git vim terminator
 ```
 
-Configure the `Update Manager`.
+Configure and install all software within the `Update Manager`.
 
 Install Electrum for cold-wallets and for the online wallet to broadcast the transaction. Ensure both the cold and online wallets are using the same Electrum version.
 
